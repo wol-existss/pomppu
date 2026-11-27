@@ -1,1 +1,2 @@
 *.slint linguist-vendored
+*.slint linguist-detectable=false
